@@ -4,8 +4,8 @@ from apps.category.models import Category
 # Create your models here.
 
 status = (
-    ("I", "Income"),
-    ("E", "Expense"),
+    ("Income", "Income"),
+    ("Expense", "Expense"),
     
 )
 
